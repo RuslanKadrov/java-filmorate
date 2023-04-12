@@ -2,11 +2,8 @@ package ru.yandex.practicum.model;
 
 
 import lombok.Data;
-import lombok.Getter;
-import lombok.Setter;
 
 import java.time.LocalDate;
-import java.util.Objects;
 
 @Data
 public class Film {

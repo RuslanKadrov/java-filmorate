@@ -1,10 +1,8 @@
 package ru.yandex.practicum.model;
 
-import jakarta.validation.constraints.*;
-import lombok.*;
+import lombok.Data;
 
 import java.time.LocalDate;
-import java.util.Objects;
 
 @Data
 public class User {
